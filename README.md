@@ -4,8 +4,6 @@
 
 - 👉 AWS : [https://sellagen.com/home]
 
-## Out of Security CANNOT SHARE FULL-SOURCE CODE HERE!!
-
 ## Tech Stack
 
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
@@ -55,3 +53,5 @@ $ npm start
 ## Support
 
 - Contact Me: [Vincent Zhao](mailto:Wencheng.Zhao21@gmail.com)
+
+## Out of Security CANNOT SHARE FULL-SOURCE CODE HERE!!
