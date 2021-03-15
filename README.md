@@ -2,7 +2,7 @@
 
 ## Demo Website
 
-- 👉 AWS : [https://sellagen.com/home]
+- 👉 AWS : [https://sellagen.com/home]https://sellagen.com/home
 
 ## Tech Stack
 
