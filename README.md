@@ -4,7 +4,7 @@
 
 - 👉 AWS : [https://sellagen.com/home]
 
-## Out of Business Security CANNOT SHARE FULL-SOURCE CODE HERE!!
+## Out of Security CANNOT SHARE FULL-SOURCE CODE HERE!!
 
 ## Tech Stack
 
