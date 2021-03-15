@@ -2,7 +2,7 @@
 
 ## Demo Website
 
-- 👉 AWS : [https://sellagen.com/home]https://sellagen.com/home
+- 👉 AWS : [https://sellagen.com/home]
 
 ## Tech Stack
 
@@ -52,4 +52,4 @@ $ npm start
 
 ## Support
 
-- Contact Me to Get the Full Source Code: [Vincent Zhao](mailto:Wencheng.Zhao21@gmail.com)
+- Contact Me: [Vincent Zhao](mailto:Wencheng.Zhao21@gmail.com)
